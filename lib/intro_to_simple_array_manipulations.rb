@@ -30,7 +30,7 @@ def using_concat(array, second_array)
   array.concat(second_array)
 end 
 
-def using_insert(array, element)
-  new array = array.inset(4,element)
+def using_insert(array, new_element)
+  array.insert(4,new_element)
 end 
 
