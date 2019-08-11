@@ -28,6 +28,5 @@ end
 
 def using_concat(array, second_array)
   array.concat(second_array)
- 
 end 
 
