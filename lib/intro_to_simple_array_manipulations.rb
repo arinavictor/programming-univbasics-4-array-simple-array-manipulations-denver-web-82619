@@ -31,6 +31,6 @@ def using_concat(array, second_array)
 end 
 
 def using_insert(array, element)
-  array.inset(4,element)
+  new array = array.inset(4,element)
 end 
 
